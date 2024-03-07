@@ -1,0 +1,22 @@
+Spillet starter
+ - er i rom
+   - Sjekk om monster
+     Ja:
+	start fight:
+	  1) Slås	
+      2) Flykt
+	   suksess = gå tilbake til forrige rom
+     Nei:
+	Beskriv rom:
+	  Beskrive rom
+	  Liste	opp gjenstander
+          Liste opp dører
+          Vente på input		
+
+
+Fight:
+	Annenhver greia
+	Hvis du dør:
+		- ferdig
+	Hvis monster dør:
+		- dropper loot			
